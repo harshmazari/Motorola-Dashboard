@@ -40,4 +40,4 @@ A comprehensive data analytics and business intelligence dashboard designed to m
 
 ## Screenshots / Demos
 Show that what the dashboards looks like, - ![Alt text](https://github.com/username/repo/assets/image.png).
-Example: https://github.com/harshmazari/Motorola-Dashboard/blob/main/Snapshot%20of%20Motorola%20Dashboard.png
+Example: ![Alt Text](https://github.com/harshmazari/Motorola-Dashboard/blob/main/Snapshot%20of%20Motorola%20Dashboard.png)
