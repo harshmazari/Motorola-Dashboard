@@ -37,3 +37,7 @@ A comprehensive data analytics and business intelligence dashboard designed to m
 * **Global Date Slicers:** Multi-select vertical month-by-month timeline filter panel spanning January through December.
 * **Granular Data Toggles:** Real-time dropdown filter controls across Mobile Model, Payment Method, Brand, and specific Day Names.
 * **Visual Identity:** Modern corporate user interface utilizing a cohesive navy blue, teal, and slate palette designed for high executive readability.
+
+## Screenshots / Demos
+Show that what the dashboards looks like, - ![Alt text](https://github.com/username/repo/assets/image.png).
+Example:
