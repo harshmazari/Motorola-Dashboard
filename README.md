@@ -38,6 +38,6 @@ A comprehensive data analytics and business intelligence dashboard designed to m
 * **Granular Data Toggles:** Real-time dropdown filter controls across Mobile Model, Payment Method, Brand, and specific Day Names.
 * **Visual Identity:** Modern corporate user interface utilizing a cohesive navy blue, teal, and slate palette designed for high executive readability.
 
-## Screenshots / Demos
-Show that what the dashboards looks like, - ![Alt text](https://github.com/username/repo/assets/image.png).
-Example: ![Alt Text](https://github.com/harshmazari/Motorola-Dashboard/blob/main/Snapshot%20of%20Motorola%20Dashboard.png)
+## Screenshot
+
+![Alt Text](https://github.com/harshmazari/Motorola-Dashboard/blob/main/Snapshot%20of%20Motorola%20Dashboard.png)
